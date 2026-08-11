@@ -33,10 +33,10 @@
 // Output:
 // 3
 
-package Arrays_DSA_Ques;
+package Assignment_3_Greedy_DP;
 import java.util.*;
 
-public class EPAM {
+public class Problem_1_Scholarship_Distribution_Greedy {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
